@@ -67,7 +67,7 @@ def main():
     Mode_beads=0 #0: Make image, 1: Read image
 
     n_obj=100 #Number of beads
-    circle_r=200 #Radius of beads
+    circle_r=500 #Radius of beads
     circle_pix=circle_r/10 #Size correction
 
     #Make or read beads distribution image
