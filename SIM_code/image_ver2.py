@@ -1,3 +1,4 @@
+#by Hiro
 from email.mime import image
 import cv2  #OpenCVのインポート
 import numpy as np #numpyをnpという名前でインポート
